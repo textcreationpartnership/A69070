@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The warming stone Excellent helps really found out, tried, and had, by a warming stone in his case, which not costing much, will save much cost in fire, and withall avoyd the danger of fire: and likewise is very usefull and comfortable for the colds of aged and sicke people, and for women with child, and in child-bed: as also for fluxes, rheumes, colicks, ruptures, or any cold disease: and for those that in beds, studies, shops, ships, churches, or elsewhere, have need of heate, yet cannot conveniently make use of fire: and likewise for the poore, when having no fire of their owne, they may borrow the heating of this stone at a neighbours fire, if his charity be not altogether cold. These stones with their cases are to be sold at [blank] where more particular satisfaction may be had of the contents of the booke.</title>
+            <author>Carew, Richard, Sir, d. 1643?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1640</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69070</idno>
+            <idno type="STC">STC 4615.5</idno>
+            <idno type="STC">ESTC S119482</idno>
+            <idno type="EEBO-CITATION">99854689</idno>
+            <idno type="PROQUEST">99854689</idno>
+            <idno type="VID">20125</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69070)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 20125)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1015:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The warming stone Excellent helps really found out, tried, and had, by a warming stone in his case, which not costing much, will save much cost in fire, and withall avoyd the danger of fire: and likewise is very usefull and comfortable for the colds of aged and sicke people, and for women with child, and in child-bed: as also for fluxes, rheumes, colicks, ruptures, or any cold disease: and for those that in beds, studies, shops, ships, churches, or elsewhere, have need of heate, yet cannot conveniently make use of fire: and likewise for the poore, when having no fire of their owne, they may borrow the heating of this stone at a neighbours fire, if his charity be not altogether cold. These stones with their cases are to be sold at [blank] where more particular satisfaction may be had of the contents of the booke.</title>
+                  <author>Carew, Richard, Sir, d. 1643?</author>
+               </titleStmt>
+               <extent>[2], 8 [i.e. 6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R[ichard] H[odgkinson] for Iohn Bartlet, at the signe of the gilt Cup in Pauls Church-yard, neere S. Augustines Gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1640.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Sir Richard Carew.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>P. 6 misnumbered 8.</note>
+                  <note>Identified as STC 25075 on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+                  <note>Pages creased with slight loss of text; A4 mutilated.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Space heaters --  Early works to 1800.</term>
+               <term>Traditional medicine --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:20125:1"/>
+            <pb facs="tcp:20125:1"/>
+            <p>THE WARMING STONE.</p>
+            <p>Excellent Helps really ſound out, tried, and had, by a <hi>Warming Stone</hi> in his Caſe, which not coſt<g ref="char:EOLhyphen"/>ing much, will ſave much coſt in fire, and withall avoyd the danger of fire: And likewiſe is very uſefull and com<g ref="char:EOLhyphen"/>fortable for the colds of aged and ſicke people, and for Women with child, and in Child-bed:</p>
+            <p>As alſo for Fluxes, Rheumes, Colicks, Ruptures, or any cold diſeaſe: And for thoſe that in Beds, Studies, Shops, Ships, Churches, or elſewhere, have need of heate, yet cannot conveniently make uſe of Fire:</p>
+            <p>And likewiſe for the Poore, when having no fire of their owne, they may borrow the heating of this ſtone at a Neighbours fire, if his Charity be not altogether cold.</p>
+            <p>
+               <hi>Theſe Stones with their Caſes are to be ſold at where more particular ſatisfaction may be had of the Contents of the Booke.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>R. H.</hi> for <hi>Iohn Bartlet,</hi> at the Signe of the gilt Cup in <hi>Pauls</hi> Church-yard, neere S. <hi>Auguſtines</hi> Gate. 1640.</p>
+         </div>
+      </front>
+      <body>
+         <div type="remedy">
+            <pb facs="tcp:20125:2"/>
+            <pb n="1" facs="tcp:20125:2"/>
+            <head>The Warming Stone.</head>
+            <p>THe decay of natural heat in aged perſons and in many others, by ſickneſſe, ill accidents, and their continuall ſitting, makes them to need the helps of Artificiall warmth; and my ſelfe through the bleſſing of God have ther<g ref="char:EOLhyphen"/>by often received eaſe of my griefes, and I verily beleeve the preſervation of my life in many grievous extremities. Once (I remember) when I was dangerouſly oppreſſed with often and very ſtrong vomiting, and did riſe out of my bed and go into the cold ſo many times, and ſo ſpeedily one after an<g ref="char:EOLhyphen"/>other, that I could neither give heate to my bed, nor receive any from it: Another time alſo when by a hurt in my foot my griefe was ſo exceedingly encreaſed, that both my foot &amp; leg were grown full of blacke ſpots, and white between, from the ſole of the foot to the knee, and moſt which ſaw it tooke it to be a Gangrene, which they thought to be uncurable without cutting off my leg, which alſo was ſo mortified with cold that I could give it no heate from my body; I then by the bleſſing of God (as I have many other times done) maintained heat in it by the help of a kinde of ſtone, which I find to be apt to re<g ref="char:EOLhyphen"/>ceive heate much ſooner, and likewiſe to retain it much lon<g ref="char:EOLhyphen"/>ger than any other thing which I could finde upon any reaſon or triall. For I found cloaths heated by the fire would quick<g ref="char:EOLhyphen"/>ly loſe their warmth, and likewiſe boords could not retaine their heate long, and that bricke and freeſtone required much time to heat them, and held it but a little while; &amp; that other ſtones were not able to endure ſtrong heating, but would ſud<g ref="char:EOLhyphen"/>denly fly in pieces; whereas this ſtone being well ſeaſoned at the firſt with a moderat heat, will both receive it quickly, and keep it very long, and impart it very kindly and agreeable unto nature. When my feet have bin cold, warming the ſame ſtone
+<pb n="2" facs="tcp:20125:3"/>by the ſire, and putting the ſoles of my feet thereon, it hath in one quarter of an houre recovered me more heat unto them, then ſcorching them by a violent fire, could have done in an whole houre; When I have beene likewiſe grievouſly pained and tortured with the Colicke, and winde in my Guts, the ſtrength of the heate of this ſtone hath (by applying it unto my belly) ſuddenly eaſed and cured me. My Wife being delivered of our eldeſt childe, I came to viſite her, to know how ſhee did after that great danger; ſhee told mee that ſhee was laid on a Trundle-bed to make her ſweat, after her weakning with paine and travell in childbirth; but the bed being ſomewhat too ſhort for her (ſhee being tall of perſon) and her feete reaching beyond the frame of the bed, ſhee could get no ſufficient heat unto them to procure ſweat; which as ſoone as I heard, I promiſed I would make her a medicine for it quickly, and did ſo, by warming a ſtone, which did bring her to ſo kindly a ſweate, as that ſhee recovered the danger of that Child<g ref="char:EOLhyphen"/>birth, and by the Bleſſing of God brought me many more Children afterwards This Warming Stone alſo hath holpen a Woman great with Child, who had a great ache in her thigh, and thought ſhe could not be cured, till ſhee were freed of her burthen by Childbirth, yet by the helpe of the warmth of this Stone, found perfect remedy above two months before the time of her delivery came: And as it is a thing certainly knowne, that the leaſt cold in Childbed, (which cannot be recovered by the ſole ſtrength of their then weakened naturall heat) brings certain death; ſo I know no o<g ref="char:EOLhyphen"/>ther remedy ſo likely to recover heate, ſweate and ſtrength in any ſuch accident, as by the helpe of theſe warming Stones, in their caſes, either one or more of them (as need ſhall require) being applyed unto any part of the Body that wants it. This hath beene tryed by a woman whoſe ſtrength failing her to free the after burthen; thoſe which were a<g ref="char:EOLhyphen"/>bout her not knowing what other helpe to give her, they
+<pb n="3" facs="tcp:20125:3"/>applyed this warming Stone, and by the helpe of the heate thereof, and the Bleſſing of God, nature wrought ſo well, that within one houre, ſhee eſcaped that danger and reco<g ref="char:EOLhyphen"/>vered her health and ſtrength againe. Another alſo who was growne ſo pale and cold after long travell, that the mid<g ref="char:EOLhyphen"/>wife who was ſent for to helpe her, finding and feeling her feete and her face to bee cold, ſuppoſed ſhee had beene dead, and ſaid unto thoſe who had ſent for her, ſhe marvelld why they had ſent for her, to come to a dead body: they anſwe<g ref="char:EOLhyphen"/>red her ſhe was not dead, though very weake: whereupon rub<g ref="char:EOLhyphen"/>bing her face, and finding ſome warmth therein, ſhee cauſed them preſently to ſend to her houſe with all ſpeed for a Cou<g ref="char:EOLhyphen"/>ple of theſe warming Stones, by the help of the heat whereof applyed to her feet and her Belly, God bleſſed her indeavors ſo well, that both the woman and the child were preſerved.</p>
+            <p>One of my Neighbours alſo, who had been long weake and ſickly, and newly had her old griefe and weakneſſe much in<g ref="char:EOLhyphen"/>creaſed by the loſſe of her eldeſt ſonne, when with all the help that ſhe could get by Phyſicke, in a long night ſhe could take little reſt; by the warmth of theſe Stones (the one being applied to her feet, and the other to the bottome of her belly) ſhee found more eaſe and ſounder ſleepe, then ſhe could doe at any time in a quarter of a year before: And ſhe told me that when her maid had forgotten (after an eight or ten dayes u<g ref="char:EOLhyphen"/>ſing thereof) to provide this help for her, ſhe ſlept as ill, as ſhe was wont to doe before; but now (God be praiſed) is very well amended both in health and ſtrength: The ſame party alſo be<g ref="char:EOLhyphen"/>ing ſo extreamly weakned, with ſuch a greivous paine in her back as ſhe was neither able to goe nor ſtand, and told her huſ<g ref="char:EOLhyphen"/>band, that if it ſhould continue with her but three dayes, ſhe thought verely it would coſt her life, by applying theſe war<g ref="char:EOLhyphen"/>ming ſtones to the place grieved, within 3 houres was able to walke about her chamber; at which her husband told me hee wondred exceedingly, how ſo great an alteration could bee wrought in ſo ſhort a time.</p>
+            <pb n="4" facs="tcp:20125:4"/>
+            <p>The help hereof alſo hath recovered thoſe who were ſo indan<g ref="char:EOLhyphen"/>gered by taking cold in their ruptures, that both themſelves &amp; their friends diſpaired of their lives, becauſe the fat of their guts being fallen down into their cods, and there grown hard &amp; ſtiffe by the cold, could not poſſibly be replaced, till ſtrong heate had reſolved it into ſoftneſſe againe: and ſo there was means found to returne them into their due place; by which (God be praiſed) ſome who deſired to be praied for publikely in the church, being out of hope of life, have recovered health and ſtrength again, though one of them was neer three ſcore &amp; ten when by this means he was holpen. It hath likewiſe done exceeding much good to many that have had very violent flu<g ref="char:EOLhyphen"/>xes (whereof ſome of them have bin bloudy) who by the help of theſe ſtones applied to their belly and their hinder parts both at one time, and the help of heating their drinke by the fire as hot as they could take it, have recovered. The ſame re<g ref="char:EOLhyphen"/>medy likewiſe helpes much to abate the violent cold fits of agues, &amp; being applied to the ſtomack, ſtrengthens the weak<g ref="char:EOLhyphen"/>nes thereof very much, againſt the cough or any diſeaſe which comes of a cold cauſe: for it exceedingly helpes the weaknes of the ſtomacke, becauſe all good digeſtion being made by heate, as extream outward colds weaken it by abating that heat, ſo this outward heate ſtrengthneth it much by adding more warmth unto it: as we find, that boyled, baked, or roſted meat being eaten hot, that heat helps us much to concoct the ſame meat. And wheras we ſeek help by artificial liquors that have an extraordinary heat, to help the cold weaknes of nature by their ſtrength, if too little bee taken it doth little good, if too much, much harme; wheras the heate of theſe ſtones may be duly tempered to our uſe, being continued, encreaſed, aba<g ref="char:EOLhyphen"/>ted, or removed ſuddenly, as the diſeaſed party ſhall think fit. The ſame ſtones alſo put into the bed, do not onely ſupply the need of a warming pan, but being put into a caſe lined two fin<g ref="char:EOLhyphen"/>gers thick every where, with wooll between, friſe on the out<g ref="char:EOLhyphen"/>ſide, and canvas on the inſide, will retain a comfortable heate
+<pb n="5" facs="tcp:20125:4"/>in the bed for ten houres together, and a ſencible heate for fourteen, if it be throughly warmed; which muſt be done as hot as may be, without burning the caſe, which is tried by ſpitting on the ſtone, or ſprinkling water on it, for if it hiſſe not it is never too hot. I make the caſe of canvas on the inſide, becauſe it is not ſo apt to burne as woollen cloath; and have wooll between, becauſe it ſorts better with any part of the bo<g ref="char:EOLhyphen"/>dy than cloath doth, and by reaſon of the thickneſſe thereof brings not an over-violent heate in the beginning, yet conti<g ref="char:EOLhyphen"/>nues it much longer than cloath or linnen could doe: and the friſe on the outſide is ſofter and warmer than other ſtuffe. And a ſtone in a caſe thus made, may be applied to the head, feet, belly, or any other part of the body that hath need of it, and may be as ſoon put away if the heat be too great.</p>
+            <p>It is alſo exceeding uſefull for all ſchollars to heate their hands and feet, when they muſt attend their ſtudies in cold weather. And for al perſons which by their trades in ſuch ſea<g ref="char:EOLhyphen"/>ſons muſt keep their ſhops, or for the ſervice of God continue in the Church. And ſuch as travel by ſea, who may have theſe ſtones warmed by the fire, though they cannot warme them<g ref="char:EOLhyphen"/>ſelves in that place where the fire is. The ſmall coſt which belongs to it is moſtly in providing the ſtone and caſe at firſt; for the ſtone will be heated by the ſame fire which is made for any other purpoſe, either to bake, boile, brew, or roſt, or by any other fire, either layd upon it, or ſet againſt it, by convenient turnings, that all parts of the ſtone may heat alike: Which may be done without any hinderance of any of the aforeſayd uſes. And by triall I find, that two about nine or ten inches long, and ſix or ſeven inches broad, will doe more ſervice, and are more eaſie to bee found than a ſingle one of double the length and bredth, becauſe they will be leſſe ſubject to brea<g ref="char:EOLhyphen"/>king with falling, and are the more eaſily put to the fire and taken from it, and moved to and fro in the bed with more ſpeed and eaſe than a great ſingle one can be, yet may, beeing put together, fill a greater room than the ſingle one could do,
+<pb n="8" facs="tcp:20125:5"/>by adding warmth, on each ſide, to any part of the body that ſhall lie betweene them, and likewiſe at one time bee applyed to ſeverall places. And ſuch poore people as have no fire of their owne, they may heat it at their neighbours fire, which will damnifie them no more, then lighting one candle by an<g ref="char:EOLhyphen"/>other; and whereas no fire can be maintained without con<g ref="char:EOLhyphen"/>ſuming the fewell which makes it, and that cannot be pro<g ref="char:EOLhyphen"/>vided without continuall charge, according to the waſting thereof, this ſtone being ſo heated will keep his heat without coſt for divers hours, in other places, but in the bed for a whol night, and that without renewing the heat, or troubling the reſt of the party, who needeth the warmth of it. Theſe uſes and experiments will be verified, by the witneſſe of many per<g ref="char:EOLhyphen"/>ſons who have very often, and doe dayly make uſe thereof, ſome of which have not bin more averſe, from being perſwa<g ref="char:EOLhyphen"/>ded to try it in the beginning, then afterwards they have been loath to leave the benefits they have found thereby; and I am very confident that by due obſervation of the quality of theſe <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> many other uſes of them will be found out, be<g ref="char:EOLhyphen"/>ſides theſe here mentioned.</p>
+            <p>This ſame ſtone being laid under the head of a childe that was much ſtopt in his breath by a cold, did in one night clear and free the paſſage of his breath: and likewiſe being laid under the head of an old man that was very deafe, did in ſuch ſort helpe him, that his neighbours wondered to ſee the change that was wrought in him.</p>
+            <p>An ancient Doctor of Phyſick of London teſtifies it gave a Patient of his more eaſe in the cure of the Sciatica, then any outvvard Medicine that he could apply.</p>
+            <closer>
+               <dateline>
+                  <date>Septemb. 1. 1640.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>Tho. Wykes.</signed>
+            </closer>
+            <pb facs="tcp:20125:5"/>
+            <pb facs="tcp:20125:6"/>
+            <pb facs="tcp:20125:6"/>
+         </div>
+      </back>
+   </text>
+</TEI>
